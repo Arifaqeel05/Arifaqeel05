@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;ASP.NET+Core+%7C+Node.js;Clean+Architecture+%7C+APIs;Final+Year+CS+Student&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;ASP.NET+Core+%7C+Node.js;Clean+Architecture+%7C+APIs;Final+Year+CS+Student&center=true&width=600&height=45">
 </p>
 
 <p align="center">
