@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;ASP.NET+Core+%7C+Node.js;Clean+Architecture+%7C+APIs;Final+Year+CS+Student&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+ASP.NET+Core+%7C+Node.js+%7C+Express;LINQ+%26+EF+Core+%26+Dapper;APIs+%26+Database+Specialist;Final+Year+CS+Student&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am a **Backend Developer** passionate about **building scalable, secure, and high-performance applications**. I specialize in **ASP.NET Core, Node.js, and database-driven backend systems**, and I thrive on solving real-world problems with clean, maintainable code.
+I am a **Backend Developer** passionate about **building scalable, secure, and high-performance applications**. I specialize in **ASP.NET Core, Node.js, Express, and database-driven backend systems**, and I thrive on solving real-world problems with clean, maintainable code.
 
 **Key strengths:**
 
@@ -32,7 +32,7 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 
 ## 🎯 Core Focus
 
-* Backend Development with **ASP.NET Core & Node.js**
+* Backend Development with **ASP.NET Core, Node.js & Express**
 * **APIs, LINQ, EF Core & Dapper**
 * Database Modeling & Query Optimization (**MongoDB, MySQL**)
 * Writing maintainable, scalable, and testable backend code
@@ -56,6 +56,7 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
 ![Minimal API](https://img.shields.io/badge/Minimal_API-7A3EF0?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
 ![Dapper](https://img.shields.io/badge/Dapper-5C2D91?style=for-the-badge)
 ![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge)
