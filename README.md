@@ -1,5 +1,3 @@
-<div style="background-color:black; color:white; padding:20px;">
-
 # 👋 Hi, I'm **Arif Aqeel Ahmad**
 
 <p align="center">
@@ -106,7 +104,7 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 
 ## 📌 Projects & Highlights
 
-🔹 Focused on **real-world backend systems** rather than just CRUD apps<br/>
+🔹 Focused on **real-world backend systems** rather than just CRUD apps
 🔹 Key areas:
 
 * **API Design & Documentation**
@@ -135,5 +133,3 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 ---
 
 ⭐ **Consistency beats motivation. Keep shipping.** 🚀
-
-</div>
