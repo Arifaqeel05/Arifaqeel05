@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Arif Aqeel Ahmad**
+# 👋 Hi, I'm 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arif%20Aqeel%20Ahmad&fontSize=40&fontAlignY=35" />
