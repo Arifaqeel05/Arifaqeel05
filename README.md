@@ -1,11 +1,15 @@
 # 👋 Hi, I'm **Arif Aqeel Ahmad**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;ASP.NET+Core+%7C+Node.js;C%23+%7C+JavaScript+%7C+Python;Building+Real-World+APIs+%F0%9F%9A%80&center=true&width=550&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arif%20Aqeel%20Ahmad&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;ASP.NET+Core+%7C+Node.js;Clean+Architecture+%7C+APIs;Final+Year+CS+Student&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arifaqeel05/Arifaqeel05/main/assets/backend-dev.gif" width="300" />
 </p>
 
 🎓 **Final Year Computer Science Student**
@@ -75,7 +79,7 @@ I believe in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arifaqeel05&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifaqeel05&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Arifaqeel05&theme=radical" height="170" />
 </p>
 
 <p align="center">
