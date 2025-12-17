@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arifaqeel05/Arifaqeel05/main/assets/backend-dev.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-🎓 **Final Year Computer Science Student** <br/>
+🎓 **Final Year Computer Science Student**
 🏫 **COMSATS University Islamabad – Sahiwal Campus**
 
 ---
@@ -113,7 +113,7 @@ I believe in:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/arif-aqeel-ahmad" target="_blank">
+  <a href="https://www.linkedin.com/in/arif-aqeel-ahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Arifaqeel05" target="_blank">
