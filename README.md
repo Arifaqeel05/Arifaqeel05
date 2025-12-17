@@ -19,22 +19,23 @@
 
 ## 🚀 About Me
 
-I am a **backend-focused developer** who enjoys building **scalable, secure, and real-world applications**. As a final-year CS student, I work extensively with **APIs, backend frameworks, and databases**.
+I am a **Backend Developer** passionate about **building scalable, secure, and high-performance applications**. I specialize in **ASP.NET Core, Node.js, and database-driven backend systems**, and I thrive on solving real-world problems with clean, maintainable code.
 
-I believe in:
+**Key strengths:**
 
-* Clean & maintainable architecture
-* Performance-focused backend logic
-* Real-world problem solving
+* Clean Architecture & SOLID Principles
+* RESTful & Minimal APIs
+* Database Design & Optimization
+* Real-world backend system development
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Core Focus
 
-* Backend Development
-* RESTful & Minimal APIs
-* ASP.NET Core & Node.js
-* Real-world system design
+* Backend Development with **ASP.NET Core & Node.js**
+* **APIs, LINQ, EF Core & Dapper**
+* Database Modeling & Query Optimization (**MongoDB, MySQL**)
+* Writing maintainable, scalable, and testable backend code
 
 ---
 
@@ -55,6 +56,9 @@ I believe in:
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
 ![Minimal API](https://img.shields.io/badge/Minimal_API-7A3EF0?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/Dapper-5C2D91?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge)
 
 ---
 
@@ -69,7 +73,7 @@ I believe in:
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
@@ -88,25 +92,25 @@ I believe in:
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
-* Advanced ASP.NET Core
-* API Security (JWT, Role-based auth)
-* Clean Architecture & Repository Pattern
+* Advanced **ASP.NET Core**
+* **API Security** (JWT, Role-based Auth)
+* **Clean Architecture & Repository Pattern**
 * Backend Performance Optimization
 
 ---
 
-## 📌 Projects
+## 📌 Projects & Highlights
 
-🔹 Focused on **real-world backend systems** instead of only CRUD apps
+🔹 Focused on **real-world backend systems** rather than just CRUD apps
 🔹 Key areas:
 
-* API Design & Documentation
-* Database Modeling
-* Business Logic & Validation
+* **API Design & Documentation**
+* **Database Modeling & Query Optimization** (LINQ, EF Core, Dapper)
+* **Business Logic & Validation**
 
-👉 *Explore my repositories to see real backend work*
+👉 *Check my repositories to explore backend projects built with real-world standards*
 
 ---
 
@@ -122,7 +126,7 @@ I believe in:
 </p>
 
 <p align="center">
-  📫 Open to **internships, backend roles, and collaboration**
+  📫 Open to **Internships, Backend Roles & Collaboration**
 </p>
 
 ---
