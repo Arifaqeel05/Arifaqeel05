@@ -106,7 +106,7 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 
 ## 📌 Projects & Highlights
 
-🔹 Focused on **real-world backend systems** rather than just CRUD apps
+🔹 Focused on **real-world backend systems** rather than just CRUD apps<br/>
 🔹 Key areas:
 
 * **API Design & Documentation**
