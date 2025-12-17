@@ -1,3 +1,5 @@
+<div style="background-color:black; color:white; padding:20px;">
+
 # 👋 Hi, I'm **Arif Aqeel Ahmad**
 
 <p align="center">
@@ -133,3 +135,5 @@ I am a **Backend Developer** passionate about **building scalable, secure, and h
 ---
 
 ⭐ **Consistency beats motivation. Keep shipping.** 🚀
+
+</div>
